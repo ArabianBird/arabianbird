@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy trabajando en un estudio contable como IT.
-- 🌱 Actualmente estoy aprendiendo Git, GitHub, Linux, Docker, Azure.
+- 🌱 Actualmente estoy aprendiendo Git, GitHub, Linux, Docker.
 - 👯 Estoy buscando colaborar en servidores, Cloud.
 - 🤔 Estoy buscando ayuda con crear mi propia nube.
-- 💬 Pregúntame sobre: por ahora nada 🚀 
-- 📫 Cómo llegar a mí por mi perfil en GitHub
+- 💬 Pregúntame sobre: por ahora nada. 🚀 
+- 📫 Cómo llegar a mí por mi perfil en GitHub.
